@@ -6,7 +6,7 @@ version: 0.3.5 # NO TOCAR
 # Configuración Global
 html:
 # title: Este valor no funciona porque esta comentado
-  title: Links | Andres Vilches 
+  title: Links | Andres Vilches #
 
 # Colores de plantilla
 theme:
@@ -15,7 +15,7 @@ theme:
 
 # Configuración Central
 main:
-  title: Mi Nombre # Aca podes poner tu nombre o el de tu producto
+  title: Andres Vilches # Aca podes poner tu nombre o el de tu producto
 
 # Lista de bloques
 blocks:
