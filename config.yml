@@ -24,11 +24,11 @@ blocks:
 
   - title: Instagram
     icon: instagram
-    url: https://www.instagram.com/lacryptaok/
+    url: https://www.instagram.com/andresvil10/
 
-# - title: Twitter
-#   icon: twitter
-#   url: https://twitter.com/TU-USUARIO
+  - title: Twitter
+    icon: twitter
+    url: https://twitter.com/avilches_eth
     
 # - title: LinkedIn # Este es el nombre del botón
 #   icon: linkedin # Este es el nombre del icono (si queres añadir una red social nueva, prestá atencion que es todo con minúscula)
