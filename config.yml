@@ -20,7 +20,7 @@ main:
 # Lista de bloques
 blocks:
   # Estos bloques los podes editar cambiando SOLO el texto que está en blanco
-  # Sacale
+  # Sacale 
 
   - title: Instagram
     icon: instagram
