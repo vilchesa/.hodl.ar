@@ -31,7 +31,7 @@ blocks:
     url: https://twitter.com/_avilches
     
   - title: Nostr
-    icon: Nostr
+    icon: nostr
     url: https://iris.to/avilches@iris.to
     
 # - title: LinkedIn # Este es el nombre del botón
