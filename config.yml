@@ -32,7 +32,7 @@ blocks:
     
   - title: Nostr
     icon: Nostr
-    url: https://iris.to/avilches
+    url: https://iris.to/avilches@iris.to
     
 # - title: LinkedIn # Este es el nombre del botón
 #   icon: linkedin # Este es el nombre del icono (si queres añadir una red social nueva, prestá atencion que es todo con minúscula)
