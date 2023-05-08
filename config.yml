@@ -15,7 +15,7 @@ theme:
 
 # Configuración Central
 main:
-  title: Andres Vilches
+  title: Andres Vilches 
 
 # Lista de bloques
 blocks:
@@ -24,7 +24,7 @@ blocks:
 
   - title: Instagram
     icon: instagram
-    url: https://www.instagram.com/andresvil10/
+    url: https://www.instagram.com/andresvil10
 
   - title: Twitter
     icon: twitter
