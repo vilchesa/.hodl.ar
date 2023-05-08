@@ -33,11 +33,11 @@ blocks:
   - title: Nostr
     icon: nostr
     url: https://iris.to/avilches@iris.to
-    
+
   - title: Telegram
     icon: telegram
     url: https://t.me/@av3785
-    
+
   - title: Mail
     icon: mail
     url: andresvilches@pm.me
