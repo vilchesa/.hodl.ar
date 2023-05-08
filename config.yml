@@ -38,9 +38,6 @@ blocks:
     icon: telegram
     url: https://t.me/av3785
 
-  - title: Mail
-    icon: url
-    url: andresvilches@pm.me
 # - title: LinkedIn # Este es el nombre del botón
 #   icon: linkedin # Este es el nombre del icono (si queres añadir una red social nueva, prestá atencion que es todo con minúscula)
 #   url: https://linkedin.com/in/TU-USUARIO # Link a donde redireccionará al hacer click
